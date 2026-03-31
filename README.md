@@ -1,20 +1,20 @@
 # OSS-Audit-24BSA10152-
 This project analyzes an open-source software, covering its origin, license, and ecosystem. It includes practical work on Linux and five shell scripts demonstrating automation skills. The aim is to understand open-source philosophy and its role in modern computing.
-# 📂 Open Source Audit Project – Git
+#  Open Source Audit Project – Git
 
-## 📌 Introduction  
+##  Introduction  
 This project is developed as part of the Open Source Software course. It provides a comprehensive audit of Git, a widely used distributed version control system in software development.
 
 The report explores both conceptual and practical aspects of open source software, including its philosophy, licensing model, integration with Linux systems, and real-world applications.
 
 ---
 
-## 🔧 Selected Software  
+##  Selected Software  
 Git – A distributed version control system originally created by Linus Torvalds.
 
 ---
 
-## 📚 Project Sections  
+##  Project Sections  
 
 ### Part A – Background and Philosophy  
 - Evolution and purpose of Git  
@@ -36,7 +36,7 @@ Git – A distributed version control system originally created by Linus Torvald
 
 ---
 
-## 💻 Bash Script Components  
+##  Bash Script Components  
 
 1. System Information Reporter  
 2. Open Source Package Scanner  
@@ -48,7 +48,7 @@ Each script highlights essential Bash scripting concepts such as loops, conditio
 
 ---
 
-## ▶️ Execution Steps  
+##  Execution Steps  
 
 ```bash
 chmod +x script1.sh
